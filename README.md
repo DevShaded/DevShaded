@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=devshaded.com&style=for-the-badge&url=https%3A%2F%2Fdevshaded.com)](https://devshaded.com)
 
-## I'm an ish kind of Developer!!
+## I'm an ish kind of Web Developer
 
 - 🔭 I do alot of programming on my free time
 - 🌱 I’m currently learning PHP and Laravel 🤣
