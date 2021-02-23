@@ -13,7 +13,7 @@
 ### Connect with me:
 
 - Discord: `DevShaded#1435`
-- Email: `devshaded.com`
+- Email: `devshaded@gmail.com`
 
 ### Languages and Tools:
 <img align="left" alt="Phpstorm" width="26px" src="https://raw.githubusercontent.com/JetBrains/logos/master/web/phpstorm/phpstorm.svg" />
