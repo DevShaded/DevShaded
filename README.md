@@ -5,9 +5,9 @@
 ## I'm an ish kind of Web Developer
 
 - 🔭 I do alot of programming on my free time
-- 🌱 I’m currently learning PHP and Laravel 🤣
+- 🌱 I’m currently learning PHP and Laravel
 - 👯 I’m looking to do some free work for someone
-- 🥅 2020 Goals: Survive
+- 🥅 2021 Goals: Practice my Web Development skills
 - ⚡ Fun fact: The world's most remote island is a Norwegian territorys
 
 ### Connect with me:
