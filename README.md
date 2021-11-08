@@ -1,12 +1,12 @@
 ### Hi there, I'm Fredrik - aka DevShaded 👋
 
 [![Website](https://img.shields.io/website?label=devshaded.com&style=for-the-badge&url=https%3A%2F%2Fdevshaded.com)](https://devshaded.com)
+[![wakatime](https://wakatime.com/badge/user/a7928738-8f6e-4dc6-a9b1-9587ef75b259.svg)](https://wakatime.com/@a7928738-8f6e-4dc6-a9b1-9587ef75b259)
 
 ## I'm an ish kind of Web Developer
 
 - 🔭 I do alot of programming on my free time
-- 🌱 I’m currently learning PHP and Laravel
-- 👯 I’m looking to do some free work for someone
+- 🌱 I’m currently working with PHP, Javascript, Laravel, and Vue.js
 - 🥅 2021 Goals: Practice my Web Development skills
 - ⚡ Fun fact: The world's most remote island is a Norwegian territorys
 
@@ -33,4 +33,6 @@
 
 ---
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DevShaded&show_icons=true&hide_border=true" />
+  <img align="left" alt="DevShaded's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DevShaded&count_private=true&show_icons=true&theme=radical&hide_border=true" />
+    <img align="left" alt="DevShaded's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevShaded&hide_border=true&theme=radical&layout=compact" />
+    
