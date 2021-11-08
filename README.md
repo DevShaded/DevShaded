@@ -34,5 +34,6 @@
 ---
 
   <img align="left" alt="DevShaded's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DevShaded&count_private=true&show_icons=true&theme=radical&hide_border=true" />
+  <br />
     <img align="left" alt="DevShaded's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevShaded&hide_border=true&theme=radical&layout=compact" />
     
