@@ -7,13 +7,11 @@
 
 - 🔭 I do alot of programming on my free time
 - 🌱 I’m currently working with PHP, Javascript, Laravel, and Vue.js
-- 🥅 2021 Goals: Practice my Web Development skills
 - ⚡ Fun fact: The world's most remote island is a Norwegian territorys
 
 ### Connect with me:
 
 - Discord: `DevShaded#1435`
-- [Contact Me](mailto:devshaded@cdevshaded.com)
 
 ### Languages and Tools:
 <img align="left" alt="Phpstorm" width="26px" src="https://raw.githubusercontent.com/JetBrains/logos/master/web/phpstorm/phpstorm.svg" />
